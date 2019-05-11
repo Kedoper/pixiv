@@ -1,0 +1,22 @@
+{
+  "name": "Pixiv Parser",
+  "version": "1.0.0",
+  "description": "Pixiv pic parser",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anime",
+    "pixiv",
+    "arts",
+    "art",
+    "atrs"
+  ],
+  "author": "kedo",
+  "license": "MIT",
+  "dependencies": {
+    "pixiv-app-api": "^0.12.0",
+    "pixiv-img": "^1.0.0"
+  }
+}
